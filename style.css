@@ -1,0 +1,42 @@
+#welcome {
+	/* border-style: ridge; */
+    font-family: 'Abel', sans-serif;
+    font-size: 50px;
+    width: 700px;
+    padding: 30px;
+    margin: 70px;
+    text-align:center;
+    position: relative;
+    left: 100px;
+    top: 50px;
+
+}
+
+#intro {
+  padding: 20px;
+  margin: 50px;
+  text-align:center;
+  position: static;
+  left: 300px;
+  top: 1000px;
+}
+
+#pic1 {
+  display: block;
+  margin: 0 auto;
+}
+
+#pic2 {
+  display: block;
+  left: 500px;
+}
+
+#team {
+
+  padding: 20px;
+  margin: 50px;
+  text-align:center;
+  position: static;
+  left: 300px;
+  top: 1000px;
+}
